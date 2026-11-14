@@ -1,0 +1,6 @@
+File Name: requirements.txt
+Code:
+pandas
+scikit-learn
+matplotlib
+nltk
